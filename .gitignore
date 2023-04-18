@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+.idea/
+*.iml
+
+>>>>>>> 0e5aeee (Project connection with remote and added gitignore)
 # Compiled class file
 *.class
 
