@@ -1,4 +1,4 @@
-package com.gagan;
+package com.gagan.leetcode.dsa;
 
 import java.util.HashMap;
 
